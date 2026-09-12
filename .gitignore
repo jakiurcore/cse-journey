@@ -1,1 +1,13 @@
 .obsidian
+
+# Compiled output
+*.o
+*.out
+a.out
+
+# Build directories
+build/
+bin/
+
+# OS files
+.DS_Store
