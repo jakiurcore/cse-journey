@@ -20,8 +20,8 @@ This repo is organized by subject/domain, not by semester — `foundations/` hol
 
 ## Projects
 
-_TBD_
+-- Will be done by soon
 
 ## Progress
 
-_TBD_
+-- Will be done by soon
